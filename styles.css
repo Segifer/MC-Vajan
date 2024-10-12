@@ -1,0 +1,43 @@
+body {
+    
+    color: purple;
+    background: rgb(159, 199, 199);
+    margin-bottom: 5px;
+}
+
+header{
+    
+    border-bottom: solid 1px white;
+    padding: 5px;;
+    font-size: 25px;
+    color: black;
+}
+
+section {
+    
+    background: rgb(26, 26, 26);
+    margin: 80px;
+}
+
+.texto {
+    
+    margin-left: 5px;
+}
+
+h2 {
+    
+    margin-left: 5px;
+}
+
+img {
+
+    height: 10%;
+    margin-left: 80px;
+    opacity: 0.5;
+}
+
+img:hover {
+    
+    opacity:1.0;
+    border: 5px solid white;
+}
